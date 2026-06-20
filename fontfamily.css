@@ -1,0 +1,27 @@
+h1
+{
+    text-align: center;
+    text-decoration: underline;
+    font-weight: bold;
+    font-size:50px;
+    text-decoration-color:blueviolet;
+    text-decoration-style:dashed;
+    line-height:1.5;
+    letter-spacing:20px;
+    font-family:arial;
+}
+p
+{
+    font-size:20px;
+    font-family:verdana;
+}
+h2
+{
+    font-size:30px;
+    font-family:calibri;
+}
+p
+{
+    font-size:20px;
+    font-family:georgia;
+}
